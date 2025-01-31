@@ -1,5 +1,5 @@
 {
-  "name": "test-button",
+  "name": "test-button-mukidi",
   "version": "1.0.0",
   "description": "this is button component library",
   "main": "./dist/cjs/index.js",
